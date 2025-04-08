@@ -1,5 +1,5 @@
 # laptop
 # table
 # wall
-# socks
+# blue socks
 # machine guns
