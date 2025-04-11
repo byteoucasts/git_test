@@ -1,5 +1,5 @@
 # laptop
 # table
-# w
+# wall
 # red blue
 # machine guns
